@@ -1,0 +1,21 @@
+<style media='screen'>
+
+header{
+  text-align: center;
+  font-size: 72px;
+}
+
+body{
+  text-align: center;
+}
+
+h1{
+  color: Darkblue;
+  align: center;
+  font-weight: bolder;
+  font-size: 52px;
+}
+
+input{
+  text-align: center;
+}
